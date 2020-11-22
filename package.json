@@ -1,0 +1,15 @@
+{
+  "name": "outgoing-port-tester",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kin021360/outgoing-port-tester"
+  },
+  "author": "Nathan Lam",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
